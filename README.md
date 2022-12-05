@@ -21,3 +21,5 @@ As for the webpage itself, it is a mock site for a marketing agency. You can scr
 https://github.com/the-Coding-Boot-Camp-at-UT/UTA-VIRT-FSF-PT-11-2022-U-LOLC/tree/main/01-HTML-Git-CSS/02-Challenge
 
 https://github.com/CoreyDC/module-1-refactor-challenge
+
+https://coreydc.github.io/module-1-refactor-challenge/
